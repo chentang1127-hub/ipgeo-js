@@ -1,0 +1,18 @@
+{
+  "name": "ipgeo",
+  "version": "0.1.0",
+  "description": "IP geolocation API client with built-in security detection — VPN, proxy, Tor, hosting flags on every plan",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "files": ["src/"],
+  "keywords": ["ip", "geolocation", "geoip", "security", "vpn", "proxy", "tor"],
+  "license": "MIT",
+  "author": "IPGeo <support@getipgeo.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chentang1127-hub/ipgeo-js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
